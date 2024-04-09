@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "简历"
-permalink: /cv/
+title: "CV"
+permalink: /cv_en/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,11 +9,53 @@ redirect_from:
 
 {% include base_path %}
 
-教育背景
+EDUCATION BACKGROUND
 ======
-* 软件工程专业 本科, 西安交通大学, 2022-2026
-* 均分 93.0491；绩点 4.0448/4.3
-* 专业排名第一
+* Xi'an Jiaotong University (C9, Chinese ivy league universities) (2022.09-2026.06)
+  * Major: Software Engineering
+  * Credit score: GPA 4.0448/4.3; Score 93.0491; Top 1 out of 180 people
+  * English proficiency: IELTS: 7.0; CET4: 603; CET6: 570
+  * Selected course for reference:
+    * 1st Semester:
+      * Linear Algebra and Geometry (99)
+      * Advanced Mathematics (95)
+      * Physics (100)
+      * Programming Fundamentals (100)
+    * 2nd Semester:
+      * Discrete Mathematics Fundamentals (94)
+      * Method of Object-oriented Programming (90)
+      * Comprehensive Training of OOP (A+)
+      * Data Structure and Algorithm (87)
+      * Physics Experiments (A+)
+      * Electric Circuit and Electronics (93)
+      * Getting Ready to Study Abroad (96)
+
+SELECTED COURSE WORK
+======
+* Game "Houyi Shoots the suns", Leader
+  * Task: Make a game with Python
+  * Use Pygame to do.
+* Drone, Leader
+
+AWARDS
+======
+* Xi'an Jiaotong University First Class Scholarship 2023
+* Outstanding Students of Xi'an Jiaotong University 2023
+* Second Prize of Uchallenge English reading competition	2023
+* Third Prize of Uchallenge English writing competition	2023
+* Third Prize of Uchallenge English translating competition	2023
+* Second Prize of National English Competition for College Students	2023
+* Award of Excellence in XJTU Mathematical Modeling Competition	2023
+
+EXTRACURRICULAR ACTIVITY
+======
+* A member of XJTU Red Cross
+* Volunteer at the Pingding County Government
+* Volunteer Teaching at Pingbian No.1 Middle School in Yunnan Province
+* XJTU Campus Ambassador
+* A member of XJTU Student Art Group
+* A member of XJTU ChungYing College Rowing Team
+
 
 项目经历
 ======
@@ -32,25 +74,6 @@ redirect_from:
 * 在项目中主要负责数据集生成与整理相关代码的实现，且参与训练方法设计工作。
 * 在项目中更加深入学习深度学习相关知识，阅读论文的能力极大增强，并积累 AI 领域科研经验。
 * 在项目中不断精进深度学习相关编程能力，更加熟练使用 PyTorch, Hugging Face 等工具或平台。
-
-专业技能与语言成绩
-======
-专业技能
-* 掌握机器学习基础知识（自学李宏毅ML-2021）
-* 掌握深度学习相关编程（自学《动手学深度学习》，有AI相关项目经历）
-* 了解软件开发基础知识（有软件开发经历）
-
-语言成绩
-* 英语（雅思7.0，四级：603，六级：570）（阅读相关英文文献基本无障碍）
-
-获奖情况
-======
-* 西安交通大学校级一等奖学金
-* 全国大学生数学竞赛陕西赛区三等奖
-* 全国大学生数学建模竞赛校赛优秀奖
-* 全国大学生英语竞赛二等奖
-* “外研社·国才杯”全国大学生外语能力大赛阅读二等奖、写作三等奖、翻译三等奖
-* 西安交通大学优秀学生
 
 
 <!-- Publications
