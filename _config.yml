@@ -7,10 +7,10 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "zh-CN"
-title                    : "郝飞洋 / Flocean Hao"
+locale                   : "en-US"
+title                    : "Home"
 title_separator          : "-"
-name                     : &name "郝飞洋"
+name                     : &name "郝飞洋 / Flocean Hao"
 description              : &description "西安交通大学软件学院学生"
 url                      : https://HungryFlo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,11 +22,11 @@ repository               : "HungryFlo/HungryFlo.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "郝飞洋"
+  name             : "郝飞洋 / Flocean Hao"
   pronouns         : # example: "she/her"  
-  bio              : "虚心若愚，求知若渴。"
-  location         : "陕西西安"
-  employer         : "西安交通大学"
+  bio              : "虚心若愚，求知若渴。/ Stay hungry, stay foolish."
+  location         : "陕西西安 / Xi'an, Shaanxi"
+  employer         : "西安交通大学 Xi'an Jiaotong University"
   uri              : # URL
   email            : "youhaofeiyang@foxmail.com" 
 

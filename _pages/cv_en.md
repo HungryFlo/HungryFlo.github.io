@@ -11,10 +11,10 @@ redirect_from:
 
 EDUCATION BACKGROUND
 ======
-* Xi'an Jiaotong University (C9, Chinese ivy league universities) (2022.09-2026.06)
+* Xi'an Jiaotong University   (C9, Chinese ivy league universities)   (2022.09-2026.06)
   * Major: Software Engineering
-  * Credit score: GPA 4.0448/4.3; Score 93.0491; Top 1 out of 180 people
-  * English proficiency: IELTS: 7.0; CET4: 603; CET6: 570
+  * Credit score: GPA 4.0448/4.3;   Score 93.0491;  Top 1 out of 180 students
+  * English proficiency: IELTS: 7.0;  CET4: 603;  CET6: 570
   * Selected course for reference:
     * 1st Semester:
       * Linear Algebra and Geometry (99)
@@ -39,13 +39,13 @@ SELECTED COURSE WORK
 
 AWARDS
 ======
-* Xi'an Jiaotong University First Class Scholarship 2023
-* Outstanding Students of Xi'an Jiaotong University 2023
-* Second Prize of Uchallenge English reading competition	2023
-* Third Prize of Uchallenge English writing competition	2023
-* Third Prize of Uchallenge English translating competition	2023
-* Second Prize of National English Competition for College Students	2023
-* Award of Excellence in XJTU Mathematical Modeling Competition	2023
+* Xi'an Jiaotong University First Class Scholarship, 2023
+* Outstanding Students of Xi'an Jiaotong University, 2023
+* Second Prize of Uchallenge English reading competition, 2023
+* Third Prize of Uchallenge English writing competition, 2023
+* Third Prize of Uchallenge English translating competition, 2023
+* Second Prize of National English Competition for College Students, 2023
+* Award of Excellence in XJTU Mathematical Modeling Competition, 2023
 
 EXTRACURRICULAR ACTIVITY
 ======
