@@ -9,8 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+
 EDUCATION BACKGROUND
 ======
+
 * Xi'an Jiaotong University   (C9, Chinese ivy league universities)   (2022.09-2026.06)
   * Major: Software Engineering
   * Credit score: GPA 4.0448/4.3;   Score 93.0491;  Top 1 out of 180 students
@@ -30,15 +32,37 @@ EDUCATION BACKGROUND
       * Electric Circuit and Electronics (93)
       * Getting Ready to Study Abroad (96)
 
+RESEARCH EXPERIENCE
+======
+
+* Fire and Gas Detectors Manager (FGDM)
+  * Prof. DU, Xiaozhi
+  * This project calculates the coverage of flame probes and toxic gas probes by modeling environments such as factories and optimizes their locations.
+  * Mainly responsible for organizing relevant literature and refining code snippets in the project.
+  * Continuously improved programming skills during the project while learning the basic process of software development.
+* Physics Experiment Aids Application
+  * The project uses a WeChat app as the front-end and Python as the back-end to realize the functions of physics experiment data analysis, data processing, and image drawing.
+  * Acted as the team leader in the project, arranged the division of labor among 7 team members, and coordinated the planning of the project structure and progress.
+  * Mainly responsible for the architectural design of the project and the development of the front-end in the project, learning the knowledge related to front-end development.
+* Conditional Semantic Similarity (C-STS) Related Research and Applications
+  * This project fine-tunes a large language model to adapt it to domain-specific conditional semantic similarity tasks.
+  * In the project, I am mainly responsible for the implementation of the code related to dataset generation and organization, and am also involved in the design of the training methodology.
+  * During the project, I learned more about deep learning, greatly enhanced my ability to read papers, and accumulated research experience in the field of AI.
+  * During the project, I have improved my deep learning programming skills, and become more proficient in using tools or platforms such as PyTorch, Hugging Face, and so on.
+
 SELECTED COURSE WORK
 ======
+
 * Game "Houyi Shoots the suns", Leader
   * Task: Make a game with Python
   * Use Pygame to do.
-* Drone, Leader
+* Purely azimuthal passive positioning in attempted UAV flights, Leader
+  * Task: give a new way to do the positioning and swarm formation scheduling of UAVs based only on azimuth information.
+  * Leader.
 
 AWARDS
 ======
+
 * Xi'an Jiaotong University First Class Scholarship, 2023
 * Outstanding Students of Xi'an Jiaotong University, 2023
 * Second Prize of Uchallenge English reading competition, 2023
@@ -49,32 +73,14 @@ AWARDS
 
 EXTRACURRICULAR ACTIVITY
 ======
+* President of Class No.2227
+* Youth League Secretary of Branch No.2202
 * A member of XJTU Red Cross
 * Volunteer at the Pingding County Government
 * Volunteer Teaching at Pingbian No.1 Middle School in Yunnan Province
 * XJTU Campus Ambassador
 * A member of XJTU Student Art Group
 * A member of XJTU ChungYing College Rowing Team
-
-
-项目经历
-======
-火气探测管理（FGDM）软件				工业软件开发
-* 该项目通过对工厂等环境进行建模，计算火焰探头和有毒气体探头的覆盖率，并对其进行位置优化。
-* 在项目中主要负责相关文献的整理和代码片段的完善。
-* 在项目中不断提升编程能力，同时学习软件开发的基本流程。
-
-物理实验辅助工具					应用程序前后端开发
-* 该项目以微信小程序为前端，以 Python 为后端，实现了物理实验数据分析、数据处理、图像绘制等功能。
-* 在项目中担任组长，安排7名组员的分工，统筹规划项目结构和进度。
-* 在项目中主要负责项目的架构设计和前端的开发工作，学习前端开发相关知识。
-
-条件语义相似性（C-STS）相关研究与应用		LLM, NLP, DCAI
-* 该项目通过对大语言模型进行微调，使其适应特定领域的条件语义相似性任务。
-* 在项目中主要负责数据集生成与整理相关代码的实现，且参与训练方法设计工作。
-* 在项目中更加深入学习深度学习相关知识，阅读论文的能力极大增强，并积累 AI 领域科研经验。
-* 在项目中不断精进深度学习相关编程能力，更加熟练使用 PyTorch, Hugging Face 等工具或平台。
-
 
 <!-- Publications
 ======
