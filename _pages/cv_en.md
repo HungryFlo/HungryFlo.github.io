@@ -43,6 +43,7 @@ EDUCATION BACKGROUND
       * Database Programming (96)
       * Probability and Statistics (94)
       * Digital Logic and Digital Systems (92)
+* The University of Hong Kong (Exchange) (2024.9-2024.12)
 
 RESEARCH EXPERIENCE
 ======
@@ -63,7 +64,7 @@ RESEARCH EXPERIENCE
   * During the project, I have improved my deep learning programming skills, and become more proficient in using tools or platforms such as PyTorch, Hugging Face, and so on.
 * An Evaluation System of the Quality of Survey Results
   * This project aims to design a system to evaluate the quality of survey results using llms.
-  * In the project, I am mainly responsible for the dataset generation and organization. I also participated in the research survey work, and conducted the ablation experiments.
+  * In the project, I am mainly responsible for the dataset generation, UI design and ablation experiments. I also participated in the research survey work.
   * During the project, I got more hands-on skills to implement the ideas, and learned much about the human-computer interaction, exploring more fields to use artificial intelligence.
 * Calligraphy Layout Generative Model Fine-tuning
   * This project aims to fine-tune a large language model to generate layout (bounding boxes of characters) in calligraphy, which eventually can assist another model to generate whole calligraphy work.
@@ -90,13 +91,14 @@ AWARDS
 
 * Outstanding Student Cadre of Xi'an Jiaotong University, 2024
 * Second Prize of National University Students Electrical Math Modeling Competition, 2024
+* Third Prize in XJTU Mathematical Modeling Competition, 2024
 * Xi'an Jiaotong University First Class Scholarship, 2023
 * Outstanding Students of Xi'an Jiaotong University, 2023
 * Second Prize of Uchallenge English reading competition, 2023
 * Third Prize of Uchallenge English writing competition, 2023
 * Third Prize of Uchallenge English translating competition, 2023
 * Second Prize of National English Competition for College Students, 2023
-* Award of Excellence in XJTU Mathematical Modeling Competition, 2023
+
 
 EXTRACURRICULAR ACTIVITY
 ======
