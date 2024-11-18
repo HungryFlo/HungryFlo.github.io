@@ -22,47 +22,30 @@ EDUCATION BACKGROUND
 
 * Xi'an Jiaotong University   (C9, Chinese ivy league universities)   (2022.09-2026.06)
   * Major: Software Engineering
-  * Credit score: GPA 4.0448/4.3;   Score 93.0491;
-  * Ranked FIRST for TWO consecutive academic years
-  * National Scholorship
+  * Credit score: GPA 4.0448/4.3;   Score 93.0491;  Top 1 out of 180 students
   * English proficiency: IELTS: 7.0;  CET4: 603;  CET6: 570
+  * Selected course for reference:
+    * 1st&2nd Semester:
+      * Linear Algebra and Geometry (99)
+      * Advanced Mathematics (95)
+      * Physics (100)
+      * Programming Fundamentals (100)
+    * 3rd Semester:
+      * Discrete Mathematics Fundamentals (94)
+      * Method of Object-oriented Programming (90)
+      * Comprehensive Training of OOP (A+)
+      * Data Structure and Algorithm (87)
+      * Physics Experiments (A+)
+      * Electric Circuit and Electronics (93)
+      * Getting Ready to Study Abroad (96)
+    * 4th Semester:
+      * Python Programming (98)
+      * Database Programming (96)
+      * Probability and Statistics (94)
+      * Digital Logic and Digital Systems (92)
 * The University of Hong Kong (Exchange) (2024.9-2024.12)
 
-RESEARCH INTERESTS
-======
-
-* Fine-tuning and improvement of large language models and multimodal models
-* Human-computer interaction (AI direction)
-* Currently exploring computer vision
-
 RESEARCH EXPERIENCE
-======
-
-* Conditional Semantic Similarity (C-STS) Related Research and Applications
-  * This project fine-tunes large language models to adapt to specific domain conditional semantic similarity tasks.
-  * Designed prompts and conditional information based on domain-related knowledge.
-  * Used large language models to generate datasets.
-  * Referenced previous methods to set up loss functions.
-  * Used active learning and other methods to address potential issues in model-generated datasets, optimizing the model fine-tuning effect.
-  * Participated in method investigation and design as well as dataset generation and organization in the project.
-
-* An Evaluation System of the Quality of Survey Results
-  * This project aims to design an evaluation process to assess the validity of survey data based on multiple large language models.
-  * The project strives to optimize human-AI interaction, enabling researchers in other fields to use large language models to assist in the analysis of survey results.
-  * Mainly responsible for dataset generation, evaluation system UI design, and ablation experiments, and participated in research on the current status of related fields.
-
-* Calligraphy Layout Generative Model Fine-tuning
-  * This project fine-tunes large language models to generate calligraphy work layouts (bounding box sequences) to improve a specific calligraphy font generation work.
-  * Collected calligraphy image datasets, annotated and organized them.
-  * Selected base models for fine-tuning based on the original training data distribution, model performance, and model overhead.
-  * Fine-tuned multiple candidate models using LoRA, q-LoRA, compared performances, and evaluated through visualization.
-  * Further deepened understanding of various fine-tuning methods and conducted fine-tuning work relatively independently.
-
-* More ...
-  * Currently have another multimodal project under review, involving YOLOv10, InternVL2, mainly responsible for fine-tuning the LLM module of the multimodal model, model testing, and ablation experiments.
-
-
-SOFTWARE DEVELOPMENT EXPERIENCE
 ======
 
 * Fire and Gas Detectors Manager (FGDM)
@@ -74,6 +57,25 @@ SOFTWARE DEVELOPMENT EXPERIENCE
   * The project uses a WeChat app as the front-end and Python as the back-end to realize the functions of physics experiment data analysis, data processing, and image drawing.
   * Acted as the team leader in the project, arranged the division of labor among 7 team members, and coordinated the planning of the project structure and progress.
   * Mainly responsible for the architectural design of the project and the development of the front-end in the project, learning the knowledge related to front-end development.
+* Conditional Semantic Similarity (C-STS) Related Research and Applications
+  * This project aims to fine-tune a large language model to adapt it to domain-specific conditional semantic similarity tasks.
+  * In the project, I am mainly responsible for the dataset generation and organization, and am also involved in the design of the training methodology.
+  * During the project, I learned more about deep learning, greatly enhanced my ability to read papers, and accumulated more research experience in the field of AI.
+  * During the project, I have improved my deep learning programming skills, and become more proficient in using tools or platforms such as PyTorch, Hugging Face, and so on.
+* An Evaluation System of the Quality of Survey Results
+  * This project aims to design a system to evaluate the quality of survey results using llms.
+  * In the project, I am mainly responsible for the dataset generation, UI design and ablation experiments. I also participated in the research survey work.
+  * During the project, I got more hands-on skills to implement the ideas, and learned much about the human-computer interaction, exploring more fields to use artificial intelligence.
+* Calligraphy Layout Generative Model Fine-tuning
+  * This project aims to fine-tune a large language model to generate layout (bounding boxes of characters) in calligraphy, which eventually can assist another model to generate whole calligraphy work.
+  * In the project, I am mainly responsible for model selecting and fine-tuning.
+  * During the project, I learned much about large language models and their potential vision ability, and get more knowledge about fine-tuning.
+  * This project developed into a more 'multimodal' one, so I also explore a little about multimodal models.
+
+
+SELECTED COURSE WORK
+======
+
 * Game "Houyi Shoots the suns", Leader
   * Task: Make a game with Python
   * Pygame, OOP
@@ -83,15 +85,10 @@ SOFTWARE DEVELOPMENT EXPERIENCE
 * Dormitory Management System, Co-Leader
   * Task: Develop a dormitory management system with data panels that allows users to manage with multi-granularity.
   * Vue, Springboot, Mybatis, Program Management
-* Dietary Nutrition Manager Application Frontend and Backend Development
-  * This project uses PyQt to achieve nutritional component statistics for three meals.
-  * Imports cafeteria menus and meal ordering information (table import or interface selection), and the program calculates nutritional components based on the "Chinese Food Composition Table (6th Edition)".
-  * Independently completed all work from information collection to development and testing.
 
 AWARDS
 ======
 
-* National Scholorship, 2024
 * Outstanding Student Cadre of Xi'an Jiaotong University, 2024
 * Second Prize of National University Students Electrical Math Modeling Competition, 2024
 * Third Prize in XJTU Mathematical Modeling Competition, 2024
