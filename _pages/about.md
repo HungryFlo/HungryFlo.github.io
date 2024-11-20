@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "我的信息"
+title: "Welcome!"
 author_profile: true
 redirect_from: 
   - /about/
