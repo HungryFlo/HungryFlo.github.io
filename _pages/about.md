@@ -13,7 +13,6 @@ Hello, welcome to my personal website! I'm Hao Feiyang, a student studying softw
 
 # 🔥 News
 - *2024.11*： &nbsp;🎉🎉 One Cooperation paper submitted to CVPR 2025, Thanks to my coauthors!
-- *2024.10*: &nbsp;🎉🎉 One Cooperation paper submitted to CSCW 2025, Thanks to my coauthors!
 - *2024.09*: &nbsp;🎉🎉 Start my journey in HKU as an exchange student!
 - *2024.04*: &nbsp;🎉🎉 Start my intership in Wangxuan Institute of Computer Technology(PKU) under the guidance of Prof. Zhouhui Lian!
 
