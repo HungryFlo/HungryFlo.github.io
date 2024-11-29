@@ -32,8 +32,8 @@ RESEARCH INTERESTS
 ======
 
 * Fine-tuning and improvement of large language models and multimodal models
-* Human-computer interaction (AI direction)
-* Currently exploring computer vision
+* Human-computer interaction (AI)
+* Retrieval-augmented generation
 
 RESEARCH EXPERIENCE
 ======
