@@ -58,10 +58,6 @@ RESEARCH EXPERIENCE
   * Fine-tuned multiple candidate models using LoRA, q-LoRA, compared performances, and evaluated through visualization.
   * Further deepened understanding of various fine-tuning methods and conducted fine-tuning work relatively independently.
 
-* More ...
-  * Currently have another multimodal project under review, involving YOLOv10, InternVL2, mainly responsible for fine-tuning the LLM module of the multimodal model, model testing, and ablation experiments.
-
-
 SOFTWARE DEVELOPMENT EXPERIENCE
 ======
 

@@ -71,6 +71,8 @@ RESEARCH EXPERIENCE
   * In the project, I am mainly responsible for model selecting and fine-tuning.
   * During the project, I learned much about large language models and their potential vision ability, and get more knowledge about fine-tuning.
   * This project developed into a more 'multimodal' one, so I also explore a little about multimodal models.
+* More ...
+  * Currently have another multimodal project under review, involving YOLOv10, InternVL2, mainly responsible for fine-tuning the LLM module of the multimodal model, model testing, and ablation experiments.
 
 
 SELECTED COURSE WORK
