@@ -92,6 +92,7 @@ AWARDS
 ======
 
 * National Scholorship, 2024
+* Fung Scholorship, 2024
 * Outstanding Student Cadre of Xi'an Jiaotong University, 2024
 * Second Prize of National University Students Electrical Math Modeling Competition, 2024
 * Third Prize in XJTU Mathematical Modeling Competition, 2024
