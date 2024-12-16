@@ -39,24 +39,26 @@ RESEARCH EXPERIENCE
 ======
 
 * Conditional Semantic Similarity (C-STS) Related Research and Applications
-  * This project fine-tunes large language models to adapt to specific domain conditional semantic similarity tasks.
-  * Designed prompts and conditional information based on domain-related knowledge.
-  * Used large language models to generate datasets.
-  * Referenced previous methods to set up loss functions.
-  * Used active learning and other methods to address potential issues in model-generated datasets, optimizing the model fine-tuning effect.
-  * Participated in method investigation and design as well as dataset generation and organization in the project.
-
+  * Research Problem: How can large language models be fine-tuned to accurately perform conditional semantic similarity tasks in specific domains?
+  * Research Methods:
+    * Designed domain-specific prompts and conditional information to generate high-quality training datasets.
+    * Applied active learning techniques to address potential issues in model-generated datasets, improving data quality and model performance.
+    * Referenced existing approaches to design tailored loss functions for the task.
+  * Contributions: Participated in the design of methods, data generation, and organization, which improved the model’s ability to handle conditional semantic similarity tasks.
 * An Evaluation System of the Quality of Survey Results
-  * This project aims to design an evaluation process to assess the validity of survey data based on multiple large language models.
-  * The project strives to optimize human-AI interaction, enabling researchers in other fields to use large language models to assist in the analysis of survey results.
-  * Mainly responsible for dataset generation, evaluation system UI design, and ablation experiments, and participated in research on the current status of related fields.
-
+  * Research Problem: How can large language models be utilized to evaluate the validity of survey data and enhance human-AI interaction?
+  * Research Methods:
+    * Developed an evaluation process leveraging multiple large language models to assess survey result quality.
+    * Designed an intuitive user interface to make the system accessible to researchers from non-technical fields.
+    * Conducted ablation studies to analyze the contribution of different models and features to the evaluation process.
+  * Contributions: Responsible for dataset generation, evaluation system UI design, and ablation experiments, while also contributing to the literature review of related fields.
 * Calligraphy Layout Generative Model Fine-tuning
-  * This project fine-tunes large language models to generate calligraphy work layouts (bounding box sequences) to improve a specific calligraphy font generation work.
-  * Collected calligraphy image datasets, annotated and organized them.
-  * Selected base models for fine-tuning based on the original training data distribution, model performance, and model overhead.
-  * Fine-tuned multiple candidate models using LoRA, q-LoRA, compared performances, and evaluated through visualization.
-  * Further deepened understanding of various fine-tuning methods and conducted fine-tuning work relatively independently.
+  * Research Problem: How can fine-tuning improve the generation of high-quality calligraphy layouts (bounding box sequences) to optimize font generation?
+  * Research Methods:
+    * Collected and annotated calligraphy image datasets, analyzed data distribution, and selected appropriate base models for fine-tuning.
+    * Fine-tuned multiple candidate models using LoRA and q-LoRA, compared their performance, and evaluated them through visualization.
+    * Explored the strengths and weaknesses of various fine-tuning techniques and independently conducted model optimization.
+  * Contributions: Independently completed data collection and annotation, model selection, fine-tuning, and performance evaluation through visualization.
 
 SOFTWARE DEVELOPMENT EXPERIENCE
 ======
