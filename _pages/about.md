@@ -149,6 +149,6 @@ Yuxuan Luo, Jiaqi Tang, Chenyi Huang, **Feiyang Hao**, Zhouhui Lian
 - XJTU Campus Ambassador
 - Volunteer Teaching at Pingbian No.1 Middle School in Yunnan Province
 
-# 🏷️ Aditional Information
+# 🏷️ Additional Information
 - English proficiency: IELTS: 7.0; &nbsp; CET4: 603; &nbsp;	CET6: 570
 - Interests: Traveling, Sports, Calligraphy, Musicals
