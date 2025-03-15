@@ -47,6 +47,7 @@ Yuxuan Luo, Jiaqi Tang, Chenyi Huang, **Feiyang Hao**, Zhouhui Lian
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Selected Honors and Awards
+
 - *2024* National Scholarship, Xi'an Jiaotong University
 - *2024* Fung Scholar and Fung Scholarship, The University of Hong Kong
 - *2024* Outstanding Student Cadre, Xi’an Jiaotong University
@@ -58,6 +59,7 @@ Yuxuan Luo, Jiaqi Tang, Chenyi Huang, **Feiyang Hao**, Zhouhui Lian
 
 
 # 📖 Educations
+
 - *2022.09 - Now*, Xi'an Jiaotong University, Bachelor in Software Engineering.
 - *2024.09 - 2024.12*, The University of Hong Kong, Exchange Student in Computer Science.
 
@@ -66,9 +68,11 @@ Yuxuan Luo, Jiaqi Tang, Chenyi Huang, **Feiyang Hao**, Zhouhui Lian
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
+
 - *2024.04 - Now*, Peking University, Research Internship under the guidance of Prof. Zhouhui Lian at Wangxuan Institute of Computer and Technology.
 
 # 🔍 Research Experience
+
 - Open-ended Financial Competency Assessment
   - Motivations: 
     - Compared to multiple-choice questions, open-ended questions can more authentically and comprehensively reflect the test-takers' proficiency and capabilities.
@@ -115,6 +119,7 @@ Yuxuan Luo, Jiaqi Tang, Chenyi Huang, **Feiyang Hao**, Zhouhui Lian
   - Paper link: [https://arxiv.org/pdf/2503.06472](https://arxiv.org/pdf/2503.06472)
 
 # 🖥️ Development Experience
+
 - Multithreaded Optimized Terminal AI Chatbot
   - Objective: Use multithread technique to create an AI chatbot in terminal.
   - Tasks:
@@ -143,6 +148,7 @@ Yuxuan Luo, Jiaqi Tang, Chenyi Huang, **Feiyang Hao**, Zhouhui Lian
   - WeChat Mini-app (front-end), Python(back-end)
 
 # 🙌 Leadership and Extracurricular Activities
+
 - President, Class No.2227
 - Youth League Secretary, Branch No.2202
 - Member of XJTU Red Cross
@@ -150,5 +156,6 @@ Yuxuan Luo, Jiaqi Tang, Chenyi Huang, **Feiyang Hao**, Zhouhui Lian
 - Volunteer Teaching at Pingbian No.1 Middle School in Yunnan Province
 
 # 🏷️ Additional Information
+
 - English proficiency: IELTS: 7.0; &nbsp; CET4: 603; &nbsp;	CET6: 570
 - Interests: Traveling, Sports, Calligraphy, Musicals
