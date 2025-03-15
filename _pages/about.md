@@ -118,7 +118,7 @@ Yuxuan Luo, Jiaqi Tang, Chenyi Huang, **Feiyang Hao**, Zhouhui Lian
   - Participate in literature investigation, benchmark construction, experiments, and paper writing.
   - Paper link: [https://arxiv.org/pdf/2503.06472](https://arxiv.org/pdf/2503.06472)
 
-# 🖥️ Development Experience
+# Development Experience
 
 - Multithreaded Optimized Terminal AI Chatbot
   - Objective: Use multithread technique to create an AI chatbot in terminal.
@@ -155,7 +155,7 @@ Yuxuan Luo, Jiaqi Tang, Chenyi Huang, **Feiyang Hao**, Zhouhui Lian
 - XJTU Campus Ambassador
 - Volunteer Teaching at Pingbian No.1 Middle School in Yunnan Province
 
-# 🏷️ Additional Information
+# Additional Information
 
 - English proficiency: IELTS: 7.0; &nbsp; CET4: 603; &nbsp;	CET6: 570
 - Interests: Traveling, Sports, Calligraphy, Musicals
