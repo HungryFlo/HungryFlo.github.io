@@ -9,14 +9,26 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  - title: "Selected Honors and Awards"
+    url: "/#-selected Honors and Awards"
 
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
+  # - title: "Invited Talks"
+  #   url: "/#-invited-talks"
 
   - title: "Internships"
     url: "/#-internships"
+
+  - title: "Research Experience"
+    url: "/#-research experience"
+
+  - title: "Development Experience"
+    url: "/#-development experience"
+
+  - title: "Leadership and Extracurricular Activities"
+    url: "/#-leadership and extracurricular activities"
+
+  - title: "Aditional Information"
+    url: "/#-aditional information"
