@@ -61,7 +61,7 @@ Yuxuan Luo, Jiaqi Tang, Chenyi Huang, **Feiyang Hao**, Zhouhui Lian
 # 📖 Educations and Internships
 
 - *2022.09 - Now*, Xi'an Jiaotong University, Bachelor in Software Engineering.
-- *2024.09 - 2024.12*, The University of Hong Kong, Exchange Student in Computer Science.
+- *2024.09 - 2024.12*, The University of Hong Kong, Exchange Student in Department of Computer Science. (English Proficiency: IELTS 7.0)
 - *2024.04 - Now*, Peking University, Research Internship under the guidance of Prof. Zhouhui Lian at Wangxuan Institute of Computer and Technology.
 
 <!-- # 💬 Invited Talks
@@ -146,15 +146,11 @@ Yuxuan Luo, Jiaqi Tang, Chenyi Huang, **Feiyang Hao**, Zhouhui Lian
   - An assistant for data processing, analysis, and visualization for physics experiments course in XJTU.
   - WeChat Mini-app (front-end), Python(back-end)
 
-# 🙌 Extracurricular Activities
+# 🙌 Additional Information
 
 - President, Class No.2227
 - Youth League Secretary, Branch No.2202
 - Member of XJTU Red Cross
 - XJTU Campus Ambassador
 - Volunteer Teaching at Pingbian No.1 Middle School in Yunnan Province
-
-# 👀Additional Information
-
-- English proficiency: IELTS: 7.0; &nbsp; CET4: 603; &nbsp;	CET6: 570
 - Interests: Traveling, Sports, Calligraphy, Musicals
