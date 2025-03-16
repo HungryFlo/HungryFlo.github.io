@@ -46,7 +46,7 @@ Yuxuan Luo, Jiaqi Tang, Chenyi Huang, **Feiyang Hao**, Zhouhui Lian
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-# 🎖 Selected Honors and Awards
+# 🎖 Honors and Awards
 
 - *2024* National Scholarship, Xi'an Jiaotong University
 - *2024* Fung Scholar and Fung Scholarship, The University of Hong Kong
@@ -58,20 +58,19 @@ Yuxuan Luo, Jiaqi Tang, Chenyi Huang, **Feiyang Hao**, Zhouhui Lian
 - *2023* Second Prize, FLTRP Uchallenge English Reading Competition
 
 
-# 📖 Educations
+# 📖 Educations and Internships
 
 - *2022.09 - Now*, Xi'an Jiaotong University, Bachelor in Software Engineering.
 - *2024.09 - 2024.12*, The University of Hong Kong, Exchange Student in Computer Science.
+- *2024.04 - Now*, Peking University, Research Internship under the guidance of Prof. Zhouhui Lian at Wangxuan Institute of Computer and Technology.
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Internships
+# 🔍 Experience
 
-- *2024.04 - Now*, Peking University, Research Internship under the guidance of Prof. Zhouhui Lian at Wangxuan Institute of Computer and Technology.
-
-# 🔍 Research Experience
+## Research Experience
 
 - Open-ended Financial Competency Assessment
   - Motivations: 
@@ -118,7 +117,7 @@ Yuxuan Luo, Jiaqi Tang, Chenyi Huang, **Feiyang Hao**, Zhouhui Lian
   - Participate in literature investigation, benchmark construction, experiments, and paper writing.
   - Paper link: [https://arxiv.org/pdf/2503.06472](https://arxiv.org/pdf/2503.06472)
 
-# Development Experience
+## Development Experience
 
 - Multithreaded Optimized Terminal AI Chatbot
   - Objective: Use multithread technique to create an AI chatbot in terminal.
@@ -147,7 +146,7 @@ Yuxuan Luo, Jiaqi Tang, Chenyi Huang, **Feiyang Hao**, Zhouhui Lian
   - An assistant for data processing, analysis, and visualization for physics experiments course in XJTU.
   - WeChat Mini-app (front-end), Python(back-end)
 
-# 🙌 Leadership and Extracurricular Activities
+# 🙌 Extracurricular Activities
 
 - President, Class No.2227
 - Youth League Secretary, Branch No.2202
@@ -155,7 +154,7 @@ Yuxuan Luo, Jiaqi Tang, Chenyi Huang, **Feiyang Hao**, Zhouhui Lian
 - XJTU Campus Ambassador
 - Volunteer Teaching at Pingbian No.1 Middle School in Yunnan Province
 
-# Additional Information
+# 👀Additional Information
 
 - English proficiency: IELTS: 7.0; &nbsp; CET4: 603; &nbsp;	CET6: 570
 - Interests: Traveling, Sports, Calligraphy, Musicals
