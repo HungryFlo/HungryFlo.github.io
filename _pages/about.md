@@ -72,45 +72,84 @@ Yuxuan Luo, Jiaqi Tang, Chenyi Huang, **Feiyang Hao**, Zhouhui Lian
 
 # 🔍 Experience
 
-## Research Experience
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Research Project</div><img src='images/CalliReader500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-### Open-ended Financial Competency Assessment
+Open-ended Financial Competency Assessment
+
 **Keywords:** Conditional Semantic Textual Similarity (C-STS), Prompt Engineering, Active Learning, LLMs  
 - **Task:** Develop an LLM-based evaluation framework to address efficiency and fairness challenges in open-ended financial competency assessments for recruitment and customer capability evaluations.  
 - **Ideas:** Designed domain-specific open-ended questions and a multi-dimensional C-STS assessment framework, generated high-quality datasets, and optimized model performance using active learning techniques.  
 - **Job:** Built a multi-dimensional (knowledge, behavior, awareness) financial QA dataset via Chain of Thought (CoT) / In Context Learning (ICL) / role-playing prompting, and conducted literature reviews.
+</div>
+</div>
 
-### An Evaluation System of Survey Result Credibility
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Research Project</div><img src='images/CalliReader500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+An Evaluation System of Survey Result Credibility
+
 **Keywords:** Post-training, Human-Computer Interaction (HCI), LLMs, UI Design   
 - **Task:** Create a phased evaluation system to address credibility gaps in open-ended survey results for HCI research.  
 - **Ideas:** Decomposed the process into stages such as prompt refinement, answer generation, analysis, and credibility assessment, leveraging role-specific LLM collaboration and researcher-centric UI design.  
 - **Job:** Contributed to dataset development and ablation studies while designing an intuitive user interface that enables non-technical researchers to interact effortlessly with the complex multi-agent system, and implementing with PyQt.
+</div>
+</div>
 
-### Calligraphy Layout Generative Model
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Research Project</div><img src='images/CalliReader500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Calligraphy Layout Generative Model
+
 **Keywords:** LoRA, q-LoRA, Visualization, Prompt Engineering  
 - **Task:** Develop an efficient calligraphy layout generation solution to overcome cost and quality limitations of traditional methods using LLMs and prompt engineering.  
 - **Ideas:** Curated a calligraphy image dataset, evaluated baseline methods, and implemented RLHF with visualization-based validation.  
 - **Job:** Selected a base model based on data distribution, performance, and computational efficiency, fine-tuned using LoRA/q-LoRA methods and evaluated through visualization techniques, which achieved higher quality results while significantly reducing costs compared to traditional methods.
+</div>
+</div>
 
-## Develop Experience
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Development Project</div><img src='images/CalliReader500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-### Multithreaded Optimized Terminal AI Chatbot
+Multithreaded Optimized Terminal AI Chatbot
+
 **Keywords:** Multithreading, Thread Pool, System Signals, Conditional Variables, Semaphores  
 - Developed a terminal-based AI chatbot using multithreading techniques, implementing thread pools to accelerate tensor calculations for model inference and using another thread to handle user interface.  
 - Synchronized threads using system signals, conditional variables, and semaphores, and analyzed efficiency under varying thread counts and scheduling policies.
+</div>
+</div>
 
-### PokeFusionLab: Fine-tune a Diffusion Model with Various Datasets, Co-Leader
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Development Project</div><img src='images/CalliReader500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+PokeFusionLab: Fine-tune a Diffusion Model with Various Datasets, Co-Leader
+
 **Keywords:** Latent Diffusion Models, LoRA, Data-Centric AI  
 - Fine-tuned latent diffusion models using Low-Rank Adaptation (LoRA) to generate images in specific styles, experimenting with single-image and Pokémon dataset training.  
 - Utilized Qwen2-VL-7b to re-annotate datasets with varying caption detail levels, fine-tuning models to analyze the impact of detailed captions on text-to-image generation performance.
+</div>
+</div>
 
-### VR Music Firework Show
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Development Project</div><img src='images/CalliReader500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+VR Music Firework Show
+
 **Keywords:** Unity 3D, Google Cardboard SDK  
 - Created an immersive VR experience allowing users to enjoy fireworks with beautiful music across multiple scenic backgrounds.
+</div>
+</div>
 
-### Dormitory Management System, Leader
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Development Project</div><img src='images/CalliReader500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Dormitory Management System, Leader
+
 **Keywords:** Vue.js, Spring Boot, MyBatis  
 - Developed a dormitory management system with data panels that allows users to manage with multi-granularity.
+</div>
+</div>
 
 # 🙌 Additional Information
 
