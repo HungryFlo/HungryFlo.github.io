@@ -2,13 +2,13 @@ from PIL import Image
 
 # 设置输入输出路径
 input_jpg = 'images/Callireader.png'   # 输入的JPG文件路径
-output_png = 'images/CalliReader500x300.png' # 输出的PNG文件路径
+output_png = 'images/CalliReader_small.png' # 输出的PNG文件路径
 
 # 读取图片
 img = Image.open(input_jpg)
 
 # 调整尺寸到300x300像素（可能改变原图比例）
-resized_img = img.resize((500, 300))
+resized_img = img.resize((500, 350))
 
 # # 保持比例缩放并居中裁剪
 # img.thumbnail((300, 300))  # 等比缩放
