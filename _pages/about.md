@@ -32,12 +32,12 @@ My research interests lie in multimodal models and human-ai interaction.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pre-print</div><img src='images/CalliReader_small.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pre-print</div><img src='images/CalliReader_small_.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CalliReader: Contextualizing Chinese Calligraphy via an Embedding-Aligned Vision-Language Model](https://arxiv.org/pdf/2503.06472)
 
-Yuxuan Luo, Jiaqi Tang, Chenyi Huang, **Feiyang Hao**, Zhouhui Lian
+Yuxuan Luo, Jiaqi Tang, Chenyi Huang, **Feiyang Hao**, Zhouhui Lian*
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 - **Task:** Create a versatile VLM for Chinese calligraphy contextualization ($CC^2$), including full-page/region-wise recognition, multilingual interpretation, and intent analysis.  
@@ -67,7 +67,7 @@ Yuxuan Luo, Jiaqi Tang, Chenyi Huang, **Feiyang Hao**, Zhouhui Lian
 
 # 🔍 Experience
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Research Project</div><img src='images/CalliReader500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Research Project</div><img src='images/img/csts.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Open-ended Financial Competency Assessment
@@ -79,7 +79,7 @@ Open-ended Financial Competency Assessment
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Research Project</div><img src='images/CalliReader500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Research Project</div><img src='images/img/csts.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 An Evaluation System of Survey Result Credibility
@@ -92,7 +92,7 @@ An Evaluation System of Survey Result Credibility
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Research Project</div><img src='images/CalliReader500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Research Project</div><img src='images/img/output_175.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Calligraphy Layout Generative Model
@@ -104,7 +104,7 @@ Calligraphy Layout Generative Model
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Development Project</div><img src='images/CalliReader500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Development Project</div><img src='images/img/os1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Multithreaded Optimized Terminal AI Chatbot
@@ -115,7 +115,7 @@ Multithreaded Optimized Terminal AI Chatbot
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Development Project</div><img src='images/CalliReader500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Development Project</div><img src='images/img/dlcv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 PokeFusionLab: Fine-tune a Diffusion Model with Various Datasets, Co-Leader
@@ -126,7 +126,7 @@ PokeFusionLab: Fine-tune a Diffusion Model with Various Datasets, Co-Leader
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Development Project</div><img src='images/CalliReader500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Development Project</div><img src='images/img/vrar.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 VR Music Firework Show
@@ -136,7 +136,7 @@ VR Music Firework Show
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Development Project</div><img src='images/CalliReader500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Development Project</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Dormitory Management System, Leader
