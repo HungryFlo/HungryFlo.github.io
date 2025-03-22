@@ -136,7 +136,7 @@ VR Music Firework Show
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Development Project</div><img src='images/housing.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Development Project</div><img src='images/img/housing.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Dormitory Management System, Leader
