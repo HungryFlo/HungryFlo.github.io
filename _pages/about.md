@@ -79,10 +79,10 @@ Open-ended Financial Competency Assessment
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Research Project</div><img src='images/img/csts.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Research Project</div><img src='images/img/inte.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-An Evaluation System of Survey Result Credibility
+IntE: Unstructured Society Research Interview Data Evaluation Method Based on LLM Powered Conditional Semantic Text Similarity
 
 **Keywords:** Post-training, Human-Computer Interaction (HCI), LLMs, UI Design   
 - **Task:** Create a phased evaluation system to address credibility gaps in open-ended survey results for HCI research.  
@@ -95,9 +95,9 @@ An Evaluation System of Survey Result Credibility
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Research Project</div><img src='images/img/output_175.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Calligraphy Layout Generative Model
+CalliArranger: Input-Adaptive Bounding Box Generation for Layout-Specific Calligraphy Arrangement
 
-**Keywords:** LoRA, q-LoRA, Visualization, Prompt Engineering  
+**Keywords:** LoRA, q-LoRA, Visualization
 - **Task:** Develop an efficient calligraphy layout generation solution to overcome cost and quality limitations of traditional methods using LLMs and prompt engineering.  
 - **Ideas:** Curated a calligraphy image dataset, evaluated baseline methods, and implemented RLHF with visualization-based validation.  
 - **Job:** Selected a base model based on data distribution, performance, and computational efficiency, fine-tuned using LoRA/q-LoRA methods and evaluated through visualization techniques, which achieved higher quality results while significantly reducing costs compared to traditional methods.
@@ -136,7 +136,7 @@ VR Music Firework Show
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Development Project</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Development Project</div><img src='images/housing.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Dormitory Management System, Leader
