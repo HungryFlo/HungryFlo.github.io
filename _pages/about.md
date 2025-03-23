@@ -65,7 +65,9 @@ Yuxuan Luo, Jiaqi Tang, Chenyi Huang, **Feiyang Hao**, Zhouhui Lian*
 - *2024.09 - 2024.12*, The University of Hong Kong, Exchange Student in Department of Computer Science. (English Proficiency: IELTS 7.0)
 - *2024.04 - 2025.03*, Peking University, Research Internship under the guidance of Prof. Zhouhui Lian at Wangxuan Institute of Computer and Technology.
 
-# 🔍 Experience
+# 🔍 Featured Experience
+
+## Research
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Research Project</div><img src='images/img/csts.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -103,6 +105,8 @@ CalliArranger: Input-Adaptive Bounding Box Generation for Layout-Specific Callig
 - **Job:** Selected a base model based on data distribution, performance, and computational efficiency, fine-tuned using LoRA/q-LoRA methods and evaluated through visualization techniques, which achieved higher quality results while significantly reducing costs compared to traditional methods.
 </div>
 </div>
+
+## Developing
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Development Project</div><img src='images/img/os1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
