@@ -30,7 +30,7 @@ My research interests lie in multimodal models and human-ai interaction.
 - *Sep 2024*: &nbsp; 🎉 Started exchange semester at HKU (The University of Hong Kong)!  
 - *Apr 2024*: &nbsp; 🚀 Started research internship in Wangxuan Institute of Computer Technology of PKU guided by Prof. Zhouhui Lian!
 
-# 📝 Paper
+# 📝 Papers
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pre-print</div><img src='images/CalliReader.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -149,6 +149,10 @@ Dormitory Management System, Leader
 - Developed a dormitory management system with data panels that allows users to manage with multi-granularity.
 </div>
 </div>
+
+<!-- # 🎞️ Presentations
+ -->
+
 
 # 🙌 Additional Information
 

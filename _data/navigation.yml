@@ -18,5 +18,8 @@ main:
   - title: "Featured Experience"
     url: "/#-featured-experience"
 
+  # - title: "Presentations"
+  #   url: "/#-presentations"
+
   - title: "Additional Information"
     url: "/#-additional-information"
