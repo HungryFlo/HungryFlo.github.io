@@ -25,14 +25,14 @@ My research interests lie in multimodal models and human-ai interaction.
 
 
 # 🔥 News
-- *Mar 2025*: &nbsp; 📝 I am pleased to share that our work, CalliReader, is now available on [arXiv](https://arxiv.org/abs/2503.06472).
+- *Jun 2025*: &nbsp; 📝 I am pleased to share that our work, CalliReader, has been accepted by ICCV 2025! [arXiv](https://arxiv.org/abs/2503.06472).
 - *Dec 2024*: &nbsp; 🌟 Exchange program concluded, but exploration continues!  
 - *Sep 2024*: &nbsp; 🎉 Started exchange semester at HKU (The University of Hong Kong)!  
 - *Apr 2024*: &nbsp; 🚀 Started research internship in Wangxuan Institute of Computer Technology of PKU guided by Prof. Zhouhui Lian!
 
 # 📝 Papers
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pre-print</div><img src='images/CalliReader.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/CalliReader.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CalliReader: Contextualizing Chinese Calligraphy via an Embedding-Aligned Vision-Language Model](https://arxiv.org/pdf/2503.06472)
