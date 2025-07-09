@@ -150,7 +150,7 @@ Dormitory Management System, Leader
 </div>
 </div>
 
-# 🎞️ Presentations
+# 👀 Presentations
  - [Knowledge Distillation](https://github.com/HungryFlo/HungryFlo.github.io/blob/main/presentations/Knowledge_Distillation.pdf)
  - [LLaMAGen](https://github.com/HungryFlo/HungryFlo.github.io/blob/main/presentations/llamagen.pdf)
  - [PAR](https://github.com/HungryFlo/HungryFlo.github.io/blob/main/presentations/PAR.pdf)
