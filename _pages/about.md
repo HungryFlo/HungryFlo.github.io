@@ -19,7 +19,7 @@ redirect_from:
 
 Nice to meet you! I am Feiyang Hao (郝飞洋), currently a third year undergraduate student studying software engineering in Xi'an Jiaotong University.
 
-My research interests lie in multimodal models and human-ai interaction.
+My research interests lie in knowledge-enhanced large language models.
 
 "Stay hungry, stay foolish." I have hunger for adventure, and I think learning is a journey of a lifetime.
 
@@ -69,10 +69,10 @@ Yuxuan Luo, Jiaqi Tang, Chenyi Huang, **Feiyang Hao**, Zhouhui Lian*
 
 ## Research
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Research Project</div><img src='images/img/csts.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Research Project</div><img src='images/img/FinES2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Open-ended Financial Competency Assessment
+FinES$^2$: Financial Competencies Evaluation based on Semi-Structured Tests
 
 **Keywords:** Conditional Semantic Textual Similarity (C-STS), Prompt Engineering, Active Learning, LLMs  
 - **Task:** Develop an LLM-based evaluation framework to address efficiency and fairness challenges in open-ended financial competency assessments for recruitment and customer capability evaluations.  
@@ -84,9 +84,9 @@ Open-ended Financial Competency Assessment
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Research Project</div><img src='images/img/inte.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-IntE: Unstructured Society Research Interview Data Evaluation Method Based on LLM Powered Conditional Semantic Text Similarity
+IntE: Unstructured Society Research Interview Data Evaluation Method
 
-**Keywords:** Post-training, Human-Computer Interaction (HCI), LLMs, UI Design   
+**Keywords:** Human-Computer Interaction (HCI), LLMs, UI Design   
 - **Task:** Create a phased evaluation system to address credibility gaps in open-ended survey results for HCI research.  
 - **Ideas:** Decomposed the process into stages such as prompt refinement, answer generation, analysis, and credibility assessment, leveraging role-specific LLM collaboration and researcher-centric UI design.  
 - **Job:** Contributed to dataset development and ablation studies while designing an intuitive user interface that enables non-technical researchers to interact effortlessly with the complex multi-agent system, and implementing with PyQt.
@@ -97,7 +97,7 @@ IntE: Unstructured Society Research Interview Data Evaluation Method Based on LL
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Research Project</div><img src='images/img/output_175.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-CalliArranger: Input-Adaptive Bounding Box Generation for Layout-Specific Calligraphy Arrangement
+CalliLayout: A Calligraphy Layout Generative Model
 
 **Keywords:** LoRA, q-LoRA, Visualization
 - **Task:** Develop an efficient calligraphy layout generation solution to overcome cost and quality limitations of traditional methods using LLMs and prompt engineering.  
@@ -108,10 +108,23 @@ CalliArranger: Input-Adaptive Bounding Box Generation for Layout-Specific Callig
 
 ## Developing
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Development Project</div><img src='images/img/XJTUSEBot.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+XJTUSEBot: A RAG-based Academic Assistant for XJTUSE Students 
+
+**Keywords:** RAG, LLM
+- Data preparation based on XJTUSE-Guide.
+- Conducted research on RAG methods and frameworks, eg. RAGFlow, GraphRAG, LightRAG.
+- Deployed models using Ollama.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Development Project</div><img src='images/img/os1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Multithreaded Optimized Terminal AI Chatbot
+TermChat: Multithreaded Optimized Terminal AI Chatbot
 
 **Keywords:** Multithreading, Thread Pool, System Signals, Conditional Variables, Semaphores  
 - Developed a terminal-based AI chatbot using multithreading techniques, implementing thread pools to accelerate tensor calculations for model inference and using another thread to handle user interface.  
