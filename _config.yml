@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Feiyang HAO's Homepage"
-description              : "Undergrad student at Xi'an Jiaotong University, focus on MLLMs and HCI."
+description              : "Undergrad student at Xi'an Jiaotong University, focus on LLMs."
 repository               : "HungryFlo/HungryFlo.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "Feiyang Hao"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
