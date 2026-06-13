@@ -37,7 +37,7 @@ My research interests lie in large language models.
 
 [How to Fine-Tune a Reasoning Model? A Teacher–Student Cooperation Framework to Synthesize Student-Consistent SFT Data](https://arxiv.org/pdf/2604.14164)
 
-Zixian Huang*, Kaichen Yang, Xu Huang, **Feiyang Hao**, Qiming Ge, Bowen Li, He Du, Kai Chen, Qipeng Guo*
+Zixian Huang\*, Kaichen Yang, Xu Huang, **Feiyang Hao**, Qiming Ge, Bowen Li, He Du, Kai Chen, Qipeng Guo\*
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 - **Overview:** A teacher-student cooperation data synthesis framework that alternately generates capability and style tokens to maintain student distribution consistency.
@@ -53,7 +53,7 @@ Zixian Huang*, Kaichen Yang, Xu Huang, **Feiyang Hao**, Qiming Ge, Bowen Li, He 
 
 [CalliReader: Contextualizing Chinese Calligraphy via an Embedding-Aligned Vision-Language Model](https://arxiv.org/pdf/2503.06472)
 
-Yuxuan Luo, Jiaqi Tang, Chenyi Huang, **Feiyang Hao**, Zhouhui Lian*
+Yuxuan Luo, Jiaqi Tang, Chenyi Huang, **Feiyang Hao**, Zhouhui Lian\*
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 - **Task:** Create a versatile VLM for Chinese calligraphy contextualization ($CC^2$), including full-page/region-wise recognition, multilingual interpretation, and intent analysis.  
