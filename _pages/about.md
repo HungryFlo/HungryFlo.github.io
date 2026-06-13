@@ -17,20 +17,36 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Nice to meet you! I am Feiyang Hao (郝飞洋), currently a third year undergraduate student studying software engineering in Xi'an Jiaotong University.
+Nice to meet you! I am Feiyang Hao (郝飞洋), currently an undergraduate student studying software engineering in Xi'an Jiaotong University. I am an incoming PhD of Shanghai Jiao Tong University and Shanghai Artificial Intelligence Laboratory.
 
-My research interests lie in knowledge-enhanced large language models.
+My research interests lie in large language models.
 
 "Stay hungry, stay foolish." I have hunger for adventure, and I think learning is a journey of a lifetime.
 
 
 # 🔥 News
+- *May 2026*: &nbsp; 📝 I am pleased to share that our work, TESSY, has been accepted by ICML 2026! [arXiv](https://arxiv.org/pdf/2604.14164).
 - *Jun 2025*: &nbsp; 📝 I am pleased to share that our work, CalliReader, has been accepted by ICCV 2025! [arXiv](https://arxiv.org/abs/2503.06472).
-- *Dec 2024*: &nbsp; 🌟 Exchange program concluded, but exploration continues!  
 - *Sep 2024*: &nbsp; 🎉 Started exchange semester at HKU (The University of Hong Kong)!  
 - *Apr 2024*: &nbsp; 🚀 Started research internship in Wangxuan Institute of Computer Technology of PKU guided by Prof. Zhouhui Lian!
 
 # 📝 Papers
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/TESSY.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[How to Fine-Tune a Reasoning Model? A Teacher–Student Cooperation Framework to Synthesize Student-Consistent SFT Data](https://arxiv.org/pdf/2604.14164)
+
+Zixian Huang*, Kaichen Yang, Xu Huang, **Feiyang Hao**, Qiming Ge, Bowen Li, He Du, Kai Chen, Qipeng Guo*
+
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+- **Overview:** A teacher-student cooperation data synthesis framework that alternately generates capability and style tokens to maintain student distribution consistency.
+- **Responsibilities:**
+  - Conducted in-depth case studies to validate the proposed SFT inference data synthesis method, demonstrating its effectiveness in preserving logical reasoning capabilities.
+  - Evaluated Teacher-Only, Student-Only, and TESSY-Cooperative strategies, identifying the "style mismatch" issue inherent in traditional Teacher-Only approaches.
+  - Analyzed the impact of student-generated style tokens on reasoning depth and rhythm to elucidate the student model's behavioral patterns.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/CalliReader.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -49,6 +65,7 @@ Yuxuan Luo, Jiaqi Tang, Chenyi Huang, **Feiyang Hao**, Zhouhui Lian*
 
 # 🎖 Honors and Awards
 
+- *2026* Outstanding Graduate, Xi'an Jiaotong University
 - *2024* National Scholarship, Xi'an Jiaotong University
 - *2024* Fung Scholar and Fung Scholarship, The University of Hong Kong
 - *2024* Outstanding Student Cadre, Xi’an Jiaotong University
@@ -61,6 +78,7 @@ Yuxuan Luo, Jiaqi Tang, Chenyi Huang, **Feiyang Hao**, Zhouhui Lian*
 
 # 📖 Educations and Internships
 
+- *Start from 2026.09*, Shanghai Jiao Tong University, PhD in Electronic Information, Joint education program with Shanghai Artificial Intelligence Laboratory.
 - *2022.09 - Now*, Xi'an Jiaotong University, Bachelor in Software Engineering.
 - *2024.09 - 2024.12*, The University of Hong Kong, Exchange Student in Department of Computer Science. (English Proficiency: IELTS 7.0)
 - *2024.04 - 2025.03*, Peking University, Research Internship under the guidance of Prof. Zhouhui Lian at Wangxuan Institute of Computer and Technology.
